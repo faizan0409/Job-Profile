@@ -3649,7 +3649,7 @@ var pagenav_next = "Next";
 <div class='scroll-head-wrap row'>
 <div class='scrollin-logo'>
   <b:section class='header' id='header' maxwidgets='1' name='Logo &amp; Title' showaddelement='no'>
-    <b:widget id='Header1' locked='true' title='Faizan Ansari  | Software Engineer | Computer Enthusiast | Computer Engineering Professional  (Header)' type='Header' version='1'>
+    <b:widget id='Header1' locked='true' title='Faizan Ansari  | Software Engineer | Computer Engineer | Computer Enthusiast (Header)' type='Header' version='1'>
       <b:widget-settings>
         <b:widget-setting name='displayUrl'>https://1.bp.blogspot.com/-WWrhhRAXblI/YUHZFm8NR5I/AAAAAAAATGE/jgQ6MZ_JpvMdNm_R6o3WI8NH8FGL_L_WACLcBGAsYHQ/s163/Faizan%2BAnsari.png</b:widget-setting>
         <b:widget-setting name='displayHeight'>100</b:widget-setting>
@@ -3860,17 +3860,15 @@ WELCOME
 <b:section class='top-bar-social blue' id='header social widget' maxwidgets='1' name='Top Social Widget' showaddelement='no'>
   <b:widget id='LinkList230' locked='true' title='Social Media Icons' type='LinkList' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='link-3'>https://in.pinterest.com/iamfaizan_4/</b:widget-setting>
+      <b:widget-setting name='link-3'>https://www.linkedin.com/in/faizan0409</b:widget-setting>
       <b:widget-setting name='sorting'>NONE</b:widget-setting>
-      <b:widget-setting name='link-4'>https://www.linkedin.com/in/faizan-ansari-b641ab1a9</b:widget-setting>
       <b:widget-setting name='text-1'>twitter</b:widget-setting>
       <b:widget-setting name='link-1'>https://mobile.twitter.com/faizan0409</b:widget-setting>
       <b:widget-setting name='text-0'>facebook</b:widget-setting>
-      <b:widget-setting name='link-2'>https://www.instagram.com/faizan.0409/</b:widget-setting>
-      <b:widget-setting name='text-3'>pinterest</b:widget-setting>
+      <b:widget-setting name='link-2'>https://www.instagram.com/faizan_0409/</b:widget-setting>
+      <b:widget-setting name='text-3'>linkedin</b:widget-setting>
       <b:widget-setting name='link-0'><![CDATA[https://m.facebook.com/profile.php?id=100024692152503&refsrc=deprecated&_rdr]]></b:widget-setting>
       <b:widget-setting name='text-2'>instagram</b:widget-setting>
-      <b:widget-setting name='text-4'>linkedin</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
             <div class='widget-content'>
@@ -3978,7 +3976,7 @@ Computer enthusiast seeking a position to utilize my skills and abilities in the
     </li>
   <li class='clearfix'>
         <strong class='list-title'>Linked In</strong>
-        <span class='cont'> <a href='https://linkedin.com/in/faizan-ansari-b641ab1a9'> linkedin.com/in/faizan-ansari-b641ab1a9</a></span>
+        <span class='cont'> <a href='https://www.linkedin.com/in/faizan0409'>linkedin.com/in/faizan0409</a></span>
     </li>
  <li class='clearfix'>
         <strong class='list-title'>Git Hub</strong>
@@ -3998,7 +3996,7 @@ Computer enthusiast seeking a position to utilize my skills and abilities in the
     </li>
     <li class='clearfix'>
         <strong class='list-title'>Resume</strong>
-        <span class='cont'><a href='https://drive.google.com/file/d/1pN211RxkQmtKSYrGk0oo50C6jzDAfxE_/view'>View Resume</a></span>
+        <span class='cont'><a href='https://drive.google.com/file/d/1anIUTt72rkBX6GFWr7IZa0FoVZBA6Pdd/view?usp=drive_link'>View Resume</a></span>
     </li>
        
 </ul>
@@ -4023,8 +4021,8 @@ Computer enthusiast seeking a position to utilize my skills and abilities in the
 </span>
 <span class='special-content'>
   <h6 class='special-heading'>B.E - AI and Data Science</h6>
-<p class='special-text'>DY Patil College of Engineering, Pune. (10/2021 - 08/2024)</p>
-  <b>&#160; &#160; &#160; &#160; &#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;9.14 CGPA </b>(till 4th Semester)</span>
+<p class='special-text'>DY Patil College of Engineering, Pune. (12/2021 - 06/2024)</p>
+  <b>&#160; &#160; &#160; &#160; &#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;9.38 CGPA </b>(till 4th Semester)</span>
   </div>
 </div>
 <!-- First One Ends -->
@@ -5629,7 +5627,8 @@ width: 100%;
  <i aria-hidden='true' class='fa fa-shopping-cart'/>
 </span>
 <span class='special-content'>
-  <h6 class='special-heading'>Eye Store | Online Shopping Store &#160;&#160;&#160;(07/2021 - 11/2021)</h6>
+  <h6 class='special-heading'>Eye Store | Online Shopping Store &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    <a class='fa fa-link' href='https://github.com/faizan0409/Unique-Venture.git'>Project Link</a></h6>
   <p class='special-text'><b>This project </b>is similar to the Amazon Store, where user with the valid credentials can create their own store with the application and can sell their products to the customers easily.<br/>
 <br><b>Backend APIs Development</b> in Spring Boot framework of Java.</br>
 <br><b>Frontend Designing</b> in Angular, HTML, Bootstrap, CSS and JavaScript.</br>
@@ -5646,7 +5645,8 @@ width: 100%;
  <i aria-hidden='true' class='fa fa-users'/>
 </span>
 <span class='special-content'>
-  <h6 class='special-heading'>Enterprise Resource Planing &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(12/2020 - 04/2021)</h6>
+  <h6 class='special-heading'>Unique Venture | ERP-WebApp &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+<a class='fa fa-link' href='https://github.com/faizan0409/Unique-Venture.git'>Project Link</a></h6>
 <p class='special-text'><b>Web Application, </b> Helps organization to manage their organization and employees data systematically, also allocate appropriate task to the employees on the daily basis.<br/>
 <br><b>Backend APIs Development</b> in Spring Boot framework of Java.</br>
 <br><b>Frontend Designing</b> in HTML , Bootstrap, CSS and JavaScript.</br>
@@ -5663,8 +5663,8 @@ width: 100%;
 <i aria-hidden='true' class='fa fa-leaf'/>
 </span>
 <span class='special-content'>
-  <h6 class='special-heading'>Leaf Diagnosis | Track System &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-    (07/2022 - 09/2022)</h6>
+  <h6 class='special-heading'>Leaf Diagnosis | Track System &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+     <a class='fa fa-link' href='https://github.com/faizan0409/'>Project Link</a></h6>
 <p class='special-text'><b>This project </b>Tracked disease present in the leaves of tomatoes, In this data modules are trained to detect disease of leaves by making use of the Data Sets.<br/>
 <br><b>Technology Stacks </b>Deep Learning, Modules Building Algorithms, Python, CNN and Datasets.</br>
 <br><b>User Interface</b> in React JS and React Native.</br>
@@ -5730,7 +5730,7 @@ width: 100%;
  <div class='contact-other'>
 <ul class='con-list'>
   <li><i aria-hidden='true' class='fa fa-whatsapp'/><span class='con-list-head'>WhatsApp</span><span><a href='https://wa.me/+919518738015' style='color:white'>+91 9518738015</a></span></li>
-  <li><i class='lnr lnr-map'/><span class='con-list-head'>Address</span><span>411033 - Pune, Maharashtra, India</span></li>
+  <li><i class='lnr lnr-map'/><span class='con-list-head'>Address</span><span>411044 - Pune, Maharashtra, India</span></li>
   <li><i class='lnr lnr-envelope'/><span class='con-list-head'>Email</span><span><a href='mailto:faizanansari36433@gmail.com' style='color:white'>faizanansari36433@gmail.com</a></span></li>
 
 </ul>
@@ -5790,12 +5790,12 @@ width: 100%;
  <b:section class='bottom-bar-social blue' id='Footer social widget' maxwidgets='1' name='Footer Social Widget' showaddelement='no'>
    <b:widget id='LinkList236' locked='true' title='Social Media Icons' type='LinkList' version='1'>
      <b:widget-settings>
-       <b:widget-setting name='link-3'>https://www.instagram.com/faizan.0409/</b:widget-setting>
+       <b:widget-setting name='link-3'>https://www.instagram.com/faizan_0409/</b:widget-setting>
        <b:widget-setting name='sorting'>NONE</b:widget-setting>
        <b:widget-setting name='text-1'>twitter</b:widget-setting>
        <b:widget-setting name='link-1'>https://mobile.twitter.com/faizan0409</b:widget-setting>
        <b:widget-setting name='text-0'>facebook</b:widget-setting>
-       <b:widget-setting name='link-2'>https://www.linkedin.com/in/faizan-ansari-b641ab1a9</b:widget-setting>
+       <b:widget-setting name='link-2'>https://www.linkedin.com/in/faizan0409</b:widget-setting>
        <b:widget-setting name='text-3'>instagram</b:widget-setting>
        <b:widget-setting name='link-0'><![CDATA[https://m.facebook.com/profile.php?id=100024692152503&refsrc=deprecated&_rdr]]></b:widget-setting>
        <b:widget-setting name='text-2'>linkedin</b:widget-setting>
